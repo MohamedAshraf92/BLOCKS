@@ -1,0 +1,53 @@
+@media only screen and (max-width: 1200px) {
+    
+}
+
+
+@media only screen and (max-width: 1024px) {
+    
+}
+
+
+@media only screen and (max-width: 768px) {
+    
+}
+
+
+@media only screen and (max-width: 480px) {
+    .section-register {
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 30px;
+    }
+    
+    html {
+        font-size: 16px;
+    }
+    
+    .phone-box {
+        margin-top: -28px;
+        width: 75%;
+    }
+    
+    .flag-box {
+        width: 23%;
+    }
+    
+    .copy-right {
+        text-align: center;
+    }
+    
+    .go-to {
+        padding: 10px 0 10px 10px;
+    }
+}
+
+
+
+
+
+
+
+
+
+

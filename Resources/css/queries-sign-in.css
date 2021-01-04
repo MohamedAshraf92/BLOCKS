@@ -1,0 +1,46 @@
+
+
+@media only screen and (max-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+    
+    .section-sign-in {
+        width: 60%;
+        margin-left: 20%;
+    }
+}
+
+@media only screen and (max-wIdth: 480px) {
+    html {
+        font-size: 16px;
+    }
+    
+    .section-sign-in {
+        width: 80%;
+        margin-left: 10%;
+    }
+    
+    .copy-right {
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    
+    .go-to {
+        padding: 10px 0 10px 10px;
+    }
+    
+    .section-sign-in {
+        margin-top: 30px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
